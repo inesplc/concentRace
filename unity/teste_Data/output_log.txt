@@ -1,0 +1,83 @@
+Mono path[0] = 'C:/Users/Inês/Google Drive/EBB 5º ano/Jogos Interactivos/Jogo digital/RacingPrototype_v5.1/teste_Data/Managed'
+Mono path[1] = 'C:/Users/Inês/Google Drive/EBB 5º ano/Jogos Interactivos/Jogo digital/RacingPrototype_v5.1/teste_Data/Mono'
+Mono config path = 'C:/Users/Inês/Google Drive/EBB 5º ano/Jogos Interactivos/Jogo digital/RacingPrototype_v5.1/teste_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Inês/Google Drive/EBB 5º ano/Jogos Interactivos/Jogo digital/RacingPrototype_v5.1/teste_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55395
+Multi-casting "[IP] 145.136.75.224 [Port] 55395 [Flags] 2 [Guid] 3632269236 [EditorId] 2837038769 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-HTPETRG) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [145.136.75.224:55395]
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.899 seconds
+desktop: 1366x768 59Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e08 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.754466 ms
+Choice is No
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityStandardAssets.Vehicles.Car.CarUserControl:Awake() (at C:\Users\Carlos\Documents\RacingPrototype_v5\Assets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs:31)
+ 
+(Filename: C:/Users/Carlos/Documents/RacingPrototype_v5/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs Line: 31)
+
+System memory in use before: 56.2 MB.
+System memory in use after: 56.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1833.
+Total: 0.561628 ms (FindLiveObjects: 0.104343 ms CreateObjectMapping: 0.036491 ms MarkObjects: 0.399126 ms  DeleteObjects: 0.019386 ms)
+
+Running
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+OSCReceiver:Main() (at C:\Users\Carlos\Documents\RacingPrototype_v5\Assets\Scripts\OSCReceiver.js:31)
+ 
+(Filename: C:/Users/Carlos/Documents/RacingPrototype_v5/Assets/Scripts/OSCReceiver.js Line: 31)
+
+found roads
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+PencilSpawner:Start() (at C:\Users\Carlos\Documents\RacingPrototype_v5\Assets\Scripts\PencilSpawner.cs:18)
+ 
+(Filename: C:/Users/Carlos/Documents/RacingPrototype_v5/Assets/Scripts/PencilSpawner.cs Line: 18)
+
+Platform assembly: C:\Users\Inês\Google Drive\EBB 5º ano\Jogos Interactivos\Jogo digital\RacingPrototype_v5.1\teste_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.507853 ms
+System memory in use before: 56.2 MB.
+System memory in use after: 55.6 MB.
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.790841 ms (FindLiveObjects: 0.041623 ms CreateObjectMapping: 0.012543 ms MarkObjects: 0.329564 ms  DeleteObjects: 0.405969 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.558305 ms
+System memory in use before: 51.2 MB.
+System memory in use after: 51.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.358073 ms (FindLiveObjects: 0.025658 ms CreateObjectMapping: 0.010833 ms MarkObjects: 0.307897 ms  DeleteObjects: 0.011973 ms)
+
